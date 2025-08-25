@@ -1,0 +1,6 @@
+"id"|"nome"|"address.street"|"address.number"|"address.city"|"address.zipcode"|"contact.email"|"contact.phone"|"contact.social.facebook"|"contact.social.twitter"|"profile.age"|"profile.active"|"profile.salary"|"profile.join_date"|"profile.rating"|"metadata.created_by"|"metadata.tags"
+"1"|"João Silva"|"Rua das Flores"|"123"|"São Paulo"|"01234-567"|"joao@email.com"|"11999887766"|"joao.silva"|"@joaosilva"|"35"|"true"|"5500.50"|"2023-01-15T09:00:00Z"|"4.8"|"admin"|"cliente,vip"
+"2"|"Maria Santos"|"Av. Paulista"|"456"|"São Paulo"|"01310-100"|"maria@email.com"|"11888776655"|"maria.santos"|"@mariasantos"|"28"|"true"|"7200.75"|"2023-02-20T10:30:00Z"|"4.9"|"system"|"funcionario,gerente"
+"3"|"Pedro Costa"|"Rua Augusta"|"789"|"Rio de Janeiro"|"22071-900"|"pedro@email.com"|"21777665544"|"pedro.costa"|"@pedrocosta"|"42"|"false"|"3800.25"|"2023-03-10T14:15:00Z"|"4.2"|"admin"|"cliente"
+"4"|"Ana Oliveira"|"Rua Oscar Freire"|"321"|"São Paulo"|"01426-001"|"ana@email.com"|"11666554433"|"ana.oliveira"|"@anaoliveira"|"31"|"true"|"6100.00"|"2023-04-05T11:45:00Z"|"4.7"|"system"|"funcionario,senior"
+"5"|"Carlos Ferreira"|"Av. Copacabana"|"654"|"Rio de Janeiro"|"22070-011"|"carlos@email.com"|"21555443322"|"carlos.ferreira"|"@carlosferreira"|"39"|"true"|"8900.90"|"2023-05-12T16:20:00Z"|"4.6"|"admin"|"cliente,premium"
